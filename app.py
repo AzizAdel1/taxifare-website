@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 
-# Display a title and some information using Markdown
 st.markdown('''
 # Taxi Fare Prediction App
 
